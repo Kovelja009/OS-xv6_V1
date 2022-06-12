@@ -1,5 +1,5 @@
 # OS-xv6_V1
-Adding copy-paste functionality to the xv6 OS
+### Adding copy-paste functionality to the xv6 OS
 
 This was a university project we had as homework. The xv6 OS can be run on a linux machine, to do so put these files into a folder, name it however you like, and then go to that directory through the terminal (exp. folder named xv6 would be accessed as "cd xv6" if it is in the main "." directory). Once youre inside the folder simply write "make qemu" to run xv6 and it will bootup.
 
